@@ -7,7 +7,7 @@
         **Algoritmo**: Sequência de passos lógicos e finita para resolução de problemas.
 
 ## Peças de uma linguagem 
-    - Comentarios
+    - [x] Comentarios
     - Declarações de variáveis (const, let)
     - Operadores (atribuição, concatenação, matemáticos, lógicos)
     - Tipos de dados (string, number, boolean)
@@ -20,3 +20,18 @@
 Coletar dados
 Processar os dados (manipular, alterar...)
 Apresentar os dados
+
+## Escopo e variáveis:
+
+Variáveis globais e locais
+Constantes
+
+## Tipos de dados: 
+
+Strings (textos): "", '', ``
+Number: 2, 1.4
+Function
+
+## Operadores 
+
+Operadores de atribuição de valor
