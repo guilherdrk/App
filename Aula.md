@@ -8,12 +8,12 @@
 
 ## Peças de uma linguagem 
     - [x] Comentarios
-    - Declarações de variáveis (const, let)
+    - [x] Declarações de variáveis (const, let)
     - Operadores (atribuição, concatenação, matemáticos, lógicos)
-    - Tipos de dados (string, number, boolean)
-    - Estrutura de dados (functions, object, array)
-    - Controle de fluxo (if/else)
-    - Estrutura de repetição (for, while)
+    - [x] Tipos de dados (string, number, boolean)
+    - [x] Estrutura de dados (functions, object, array)
+    - [x] Controle de fluxo (if/else)
+    - [x] Estrutura de repetição (for, while)
 
 ## Fases da resolução de um problema
 
@@ -33,8 +33,9 @@ Apresentar os dados
 - [x] Boolean: True, False 
 ## Operadores 
 
-- [x] Operadores de atribuição de valor =
-- [x] Operador de concatenação +
+- [x] Operadores de atribuição de valor: =
+- [x] Operador de concatenação: +
+- [x] Operadores de comparação: ==, >, <, >=, <=, !=
 
 ## Estrutura de dados: 
 
@@ -62,6 +63,7 @@ Apresentar os dados
 ## Condicionais:
 
 - [x] Switch
+- [x] if/else
 
 ## Módulos em Node.js:
 
@@ -70,4 +72,4 @@ Apresentar os dados
 
 ## Programação assíncrona e Promises:
 
-- [x] Usp de funções assíncronas (async/await)
+- [x] Uso de funções assíncronas (async/await)
