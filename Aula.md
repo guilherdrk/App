@@ -55,10 +55,19 @@ Apresentar os dados
 - [x] Arrow Function / named function
 
 
-## Estrutura de repetição 
+## Estrutura de repetição:
 
 - [x] while
 
-## Condicionais 
+## Condicionais:
 
 - [x] Switch
+
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+- [x] Usp de funções assíncronas (async/await)
