@@ -1,17 +1,11 @@
-// arrays, objetos
+const start = () => {
+    let cont = 1;
 
-let meta = {
-    value: 'Ler um livro todo mês',
-    checked: false,
+    while(cont <= 10){
+        console.log(cont);
+        cont = cont + 1;
 
-}
+    };
+};
 
-let metas = [
-    meta,
-    {
-        value: "Treinar todos os dias",
-        checked: false 
-    }
-]
-
-console.log(metas[1].value);
+start();
