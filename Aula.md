@@ -9,7 +9,7 @@
 ## Peças de uma linguagem 
     - [x] Comentarios
     - [x] Declarações de variáveis (const, let)
-    - Operadores (atribuição, concatenação, matemáticos, lógicos)
+    - [x] Operadores (atribuição, concatenação, matemáticos, lógicos)
     - [x] Tipos de dados (string, number, boolean)
     - [x] Estrutura de dados (functions, object, array)
     - [x] Controle de fluxo (if/else)
